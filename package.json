@@ -30,5 +30,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunatl/npm-plain-ts-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bunatl/npm-plain-ts-component/issues"
+  },
+  "homepage": "https://github.com/bunatl/npm-plain-ts-component#readme"
 }
